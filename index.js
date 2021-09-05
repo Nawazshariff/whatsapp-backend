@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  return res.status(200).json("Hi this is backend");
+  return res.status(200).json("Welcome to server of whatsapp");
 });
 
 app.post("/message/new", (req, res) => {
