@@ -1,0 +1,13 @@
+{
+    "env":{
+        "PORT":3000,
+        "db_name":"whatsapp",
+        "db_user":"nawazshariff",
+        "db_pwd":"Za_K_-mVsyWW6*n",
+        "db_msg_coll":"WP_MESSAGES",
+        "pusher_appId":"1261784",
+        "pusher_key":"f18de86d70593a08aec2",
+        "pusher_secret":"9279ebb7214e2e9b5a1a",
+        "pusher_cluster":"ap2"
+    }
+}
